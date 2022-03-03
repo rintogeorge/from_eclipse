@@ -9,5 +9,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World it is from eclipse" );
+        System.out.println("Program ended");
     }
 }
